@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff33ccffRDF Info|r
+## Notes: Dungeon Finder padlock tooltips — why it's locked and what you need to enter.
+## Author: Sulton
+## Version: 1.0.0
+
+RDF_Info_Access.lua
+RDF_Info.lua
